@@ -4,3 +4,4 @@ torch
 uvicorn[standard]
 python-multipart
 sentencepiece
+sacremoses

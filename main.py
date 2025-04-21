@@ -1,6 +1,6 @@
 # main.py
 from fastapi import FastAPI, File, UploadFile, APIRouter
-from app.controllers import item_controller
+from controllers import item_controller
 from fastapi.middleware.cors import CORSMiddleware  # Add this import
 
 
